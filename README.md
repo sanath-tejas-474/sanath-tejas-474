@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sanath-tejas-474
-- 👀 I’m interested in studying and learning about more aspects of data
-- 🌱 I’m currently learning basics to intermediate of data engineering and data analyst.
-- 📫 How to reach me you can contact through the gmail
+# 👋 Hi, I’m Sanath Kumar (@sanath-tejas-474)
+
+- 👀 I’m deeply interested in exploring various aspects of data, from analysis to engineering.
+- 🌱 I’m currently enhancing my skills in data engineering and data analysis, moving from basics to intermediate levels.
+- 💼 Check out my projects on data visualization, data pipelines, and more on my repositories.
+- 📫 You can reach me via [email](mailto:sanathskanda6@gmail.com).
+
+---
 
 
-<!---
-sanath-tejas-474/sanath-tejas-474 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
